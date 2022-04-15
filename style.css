@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+p{
+    font-size: 10px;
+    color: gray;
+}
 .logo{
 width: 198.07px;
 height: 59px;
@@ -21,6 +25,9 @@ top: 30px;
 }
 .bg{
     background-color: #F0FFF0;
+   
+left: 0px;
+top: 0px;
 }
 .m-buttom{
     margin-bottom: 50px;
@@ -37,12 +44,15 @@ top: 30px;
 .colom{
     padding: 50px;
 }
-.col img{
-    width: 66px;
+.image-png{ width: 66px;
     height: 85px;
+   
 }
 .cat1{
-    background-color: #F8FFFB;
-    width: 170px;
-    height: 170px;
+    background-color: #00ff6e;
+    width: 200px;
+height: 200px;
+}
+.cat2{
+    background-color: #FD511A;
 }
