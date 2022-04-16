@@ -48,11 +48,10 @@ top: 0px;
     height: 85px;
    
 }
-.cat1{
-    background-color: #00ff6e;
-    width: 200px;
-height: 200px;
+.cat1,.cat3,.cat4{
+    background-color: #F8FFFB;
 }
 .cat2{
-    background-color: #FD511A;
+    background-color: #F8FFFB;
+    box-shadow: 2px 20px 40px lightgray;
 }
